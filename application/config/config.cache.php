@@ -7,7 +7,7 @@
 	'SEODESCRIPTION'=>'',
 	'COPYRIGHT'=>'',
 	'ICPNO'=>'',
-	'COMPANYNAME'=>'剑南春投票系统',
+	'COMPANYNAME'=>'乡镇APP',
 	'COMPANYLINKMAN'=>'',
 	'MOBILE'=>'',
 	'TELPHONE'=>'',
